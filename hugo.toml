@@ -9,7 +9,7 @@ enableGitInfo          = false
 metaDataFormat         = "yaml"
 publishDir             = "public"
 title                  = "樊刹-学习心得分享"
-theme                  = "Shadocs"
+theme                  = "shadocs"
 themesdir              = "themes"
 
 [module]
