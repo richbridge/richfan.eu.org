@@ -1,7 +1,7 @@
 #
 # Standard configuration
 #
-baseURL                = "https://example.com"
+baseURL                = "https://richfan.eu.org"
 copyright              = "The MIT License (MIT) Copyright © 2022 RichFan"
 defaultContentLanguage = "zh"
 enableEmoji            = false
